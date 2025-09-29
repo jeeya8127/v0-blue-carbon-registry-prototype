@@ -1,0 +1,32 @@
+export const projects = [
+  {
+    id: "mangrove-delta-09",
+    name: "Mangrove-Delta-09",
+    location: "Sundarbans, South Asia",
+    type: "Mangroves",
+    credits: 1200,
+    price: 10,
+    status: "Active",
+    verification: "Verified",
+  },
+  {
+    id: "seagrass-bay-02",
+    name: "Seagrass-Bay-02",
+    location: "Andaman Sea, Southeast Asia",
+    type: "Seagrass",
+    credits: 850,
+    price: 12,
+    status: "Active",
+    verification: "Under Review",
+  },
+  {
+    id: "wetland-03",
+    name: "Wetland-03",
+    location: "East Africa Coast",
+    type: "Coastal Wetlands",
+    credits: 1500,
+    price: 9,
+    status: "Active",
+    verification: "Verified",
+  },
+]
